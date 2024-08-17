@@ -1,0 +1,3 @@
+R_Chen_FinalProject: The Influence of Air Pollution on Sialia Sialis
+R_Chen_Project1: Using the data of the sales information of Taylor Swift albums in different music sales platform in China, analyze the best allocation of sales of the concert tickets to Taylor Swift concert in China.
+R_Chen_Project2: apply data preparation and feature engineering techniques to a data set comprised of information related to automobile gas mileage.
